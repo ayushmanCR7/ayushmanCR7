@@ -4,9 +4,9 @@
 
 <p align="center">
   <a href="mailto:ayushmanbarick33@gmail.com"><img src="https://img.shields.io/badge/Email-ayushmanbarick%40example.com-blue?style=flat-square&logo=gmail"></a>
-  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/ayushman-barick-85a559269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/ayushman-barick-85a559269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://leetcode.com/u/CR7barick/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode"></a>
-  <a href="[https://codechef.com/users/your-codechef](https://www.codechef.com/users/ayushman42907)"><img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=flat-square&logo=codechef"></a>
+  <a href="https://www.codechef.com/users/ayushman42907"><img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=flat-square&logo=codechef"></a>
 </p>
 
 ---
