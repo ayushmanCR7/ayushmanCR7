@@ -1,5 +1,9 @@
 <!-- Profile Header -->
-<h1 align="center">Hi there 👋, I'm Ayushman Barick</h1>
+<!-- Profile Header with Typing Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9AFF&width=435&lines=Hi+there+👋,+I'm+Ayushman+Barick;Full-Stack+Developer;Competitive+Programmer;Tech+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+</h1>
+
 <h3 align="center">Full-Stack Developer | Competitive Programmer | Tech Enthusiast</h3>
 
 <p align="center">
@@ -9,6 +13,13 @@
   <a href="https://www.codechef.com/users/ayushman42907"><img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=flat-square&logo=codechef"></a>
 </p>
 
+## 🎓 Educational Qualifications  
+
+| Year        | Degree/Examination                       | Institution/Board                    | CGPA/Percentage |
+|-------------|-------------------------------------------|---------------------------------------|-----------------|
+| 2022–Present| B.Tech. – Production Engineering (Minor in CSE) | NIT Trichy                            | 8.91 CGPA        |
+| 2022        | Class XII                                 | Army Public School, Delhi Cantt (CBSE) | 92.2%            |
+| 2020        | Class X                                   | Army Public School, Delhi Cantt (CBSE) | 91.6%            |
 ---
 
 ## 🏆 Achievements  
@@ -17,7 +28,9 @@
 - ⭐ **3-Star Coder on CodeChef** | Peak Rating: 1664 | Global Rank 233 in CodeChef Starters 163  
 
 ---
+## 📜 Certifications  
 
+- Oracle Cloud Infrastructure 2025 Certified Foundations Associate 
 ## 💻 Tech Stack  
 
 **Languages:**  
@@ -92,8 +105,5 @@
 - ⚽ Participant – Sportsfete’23 Inter-Department Football Tournament  
 
 ---
-
-## 📄 Resume  
-[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader)]((https://drive.google.com/file/d/1RCUJ-6I7Y6GP4zanfMLXvIlSdrGRhUsY/view?usp=sharing))
 
 ---
