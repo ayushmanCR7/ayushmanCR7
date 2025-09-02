@@ -94,6 +94,6 @@
 ---
 
 ## 📄 Resume  
-[![Resume](https://drive.google.com/file/d/1RCUJ-6I7Y6GP4zanfMLXvIlSdrGRhUsY/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader)]((https://drive.google.com/file/d/1RCUJ-6I7Y6GP4zanfMLXvIlSdrGRhUsY/view?usp=sharing))
 
 ---
