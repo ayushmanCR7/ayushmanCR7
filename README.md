@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <!-- Profile Header with Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9AFF&width=435&lines=Hi+there+👋,+I'm+Ayushman+Barick;Full-Stack+Developer;Competitive+Programmer;Tech+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9AFF&width=435&lines=Hi+there+👋,+I'm+Ayushman+Barick;Full-Stack+Developer;Competitive+Programmer;Tech+Enthusiast;" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">Full-Stack Developer | Competitive Programmer | Tech Enthusiast</h3>
