@@ -25,11 +25,11 @@
 ## 💼 Internship  
 
 **ScholarsBoost (Jan 2025 – Mar 2025)** *(NASSCOM(CISCO)-funded startup)*  
-- Designed & optimized MongoDB collections, improving query performance by **30%**  
-- Built multiple REST APIs for seamless frontend-backend communication  
-- Integrated Razorpay, automated transactional emails (NodeMailer), & cron-based slot deletion  
-- Leveraged Cloudinary for secure image hosting, optimized state with **TanStack React Query**  
-- Deployed on VPS achieving **99% uptime** and smooth scaling  
+-Designed and optimized MongoDB collections and developed multiple RESTful APIs. 
+-Containerized the full-stack application using Docker, orchestrated services with Kubernetes, and automated server provisioning and deployment using Terraform and Ansible on a VPS. 
+-Set up CI/CD pipelines in Jenkins to automate build, test, and deployment processes. 
+-Integrated Razorpay for secure payments, automated transactional emails with NodeMailer, and implemented cron-based slot deletion with a dynamic booking view using React Calendar.. 
+-Leveraged Cloudinary for secure image hosting, optimized frontend performance with TanStack React Query and implemented real-time monitoring and visualization of system metrics using Prometheus and Grafana. 
 
 ---
 
