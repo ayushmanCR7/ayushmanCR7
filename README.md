@@ -35,16 +35,16 @@
 
 ## 🚀 Projects  
 
-### 🔹 ConvoAI *(May 2025 – Jul 2025)*  
+### 🔹 ConvoAI   
 - AI-powered **real-time video communication platform** using **Next.js 15, React 19 & Stream SDKs**  
 - Automated summaries, transcripts & searchable history → improved retrieval by **40%**  
 - Secured with Better Auth, monetized via Polar subscriptions, used Inngest jobs for scaling  
 
-### 🔹 SkillSphere *(Nov 2024 – Dec 2024)*  
+### 🔹 SkillSphere   
 - Full-stack freelancing platform with **Razorpay, WebSocket chat, filters, review system**  
 - MERN stack with Cloudinary, JWT, React Query → session duration ↑ **20%**  
 
-### 🔹 BlogNova *(Sept 2024 – Oct 2024)*  
+### 🔹 BlogNova   
 - Full-stack blogging platform with **Gemini AI API, PostgreSQL, Prisma ORM**  
 - Built **admin dashboard** for moderation, optimized media with ImageKit (load time ↓ **40%**)  
 - JWT authentication for roles, responsive UI for mobile & desktop  
@@ -53,8 +53,8 @@
 
 ## 🏆 Achievements  
 
-- **Knight on LeetCode** – Global Rank **788** (Weekly Contest 425), Peak **1962**, solved **1300+** problems  
-- **3★ on CodeChef** – Global Rank **233** (Starters 163), Peak **1664**  
+- **Knight on LeetCode** – Global Rank **788** (Weekly Contest 425), Peak **1962**, solved **1400+** problems  
+- **3★ on CodeChef** – Global Rank **233** (Starters 163), Peak **1678**  
 - **Rank 2** – National Science Olympiad *(2018 & 2020)*  
 - **Qualified JEE-Advanced (2022)**  
 
